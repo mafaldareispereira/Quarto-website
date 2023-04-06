@@ -1,0 +1,13 @@
+---
+title: "About my research"
+author: "Mafalda Reis Pereira"
+output:
+  quarto::quarto_site:
+    theme: null
+---
+
+## **Dissertation Topic: Detection and early identification of plant diseases caused by bacteria based on proximal sensing from a precision agriculture perspective**
+
+Plant diseases caused by bacteria have worldwide an important agronomic, environmental, economic, and humanitarian impact that justify researching a rigorous and early diagnosis. My work aims to develop predictive methods based on plant spectral properties for early detection and identification of the presence of bacteria that cause diseases in plants with agricultural interest. The models were developed in laboratory and field conditions using different pathovars as a case study of Xanthomonas spp. and Pseudomonas syringae in tomato, and kiwi crops. Hyperspectral data (reflectance and transmittance) was obtained with UV-VIS portable spectroradiometer, and mini-spectrometers. Data, was applied in the development of predictive models, through applied predictive classification models (based on supervised Machine Learning approaches). Based on these models, solutions will be tested aiming the field mapping of the risk of the diseases studied, using optical sensors mounted on robotic platforms.
+
+**Skills**: Precision Agriculture \* Plant Pathology \* Agriculture technology \* Molecular Biology \* Microbiology \* Hyperspectral spectroscopy \* Applied Predictive Modeling \* Machine Learning \* Chemometrics
