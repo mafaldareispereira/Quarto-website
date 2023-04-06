@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About my research",
+    "section": "",
+    "text": "Plant diseases caused by bacteria have worldwide an important agronomic, environmental, economic, and humanitarian impact that justify researching a rigorous and early diagnosis. My work aims to develop predictive methods based on plant spectral properties for early detection and identification of the presence of bacteria that cause diseases in plants with agricultural interest. The models were developed in laboratory and field conditions using different pathovars as a case study of Xanthomonas spp. and Pseudomonas syringae in tomato, and kiwi crops. Hyperspectral data (reflectance and transmittance) was obtained with UV-VIS portable spectroradiometer, and mini-spectrometers. Data, was applied in the development of predictive models, through applied predictive classification models (based on supervised Machine Learning approaches). Based on these models, solutions will be tested aiming the field mapping of the risk of the diseases studied, using optical sensors mounted on robotic platforms.\nSkills: Precision Agriculture * Plant Pathology * Agriculture technology * Molecular Biology * Microbiology * Hyperspectral spectroscopy * Applied Predictive Modeling * Machine Learning * Chemometrics"
+  },
+  {
+    "objectID": "about.html#dissertation-topic-detection-and-early-identification-of-plant-diseases-caused-by-bacteria-based-on-proximal-sensing-from-a-precision-agriculture-perspective",
+    "href": "about.html#dissertation-topic-detection-and-early-identification-of-plant-diseases-caused-by-bacteria-based-on-proximal-sensing-from-a-precision-agriculture-perspective",
+    "title": "About my research",
+    "section": "",
+    "text": "Plant diseases caused by bacteria have worldwide an important agronomic, environmental, economic, and humanitarian impact that justify researching a rigorous and early diagnosis. My work aims to develop predictive methods based on plant spectral properties for early detection and identification of the presence of bacteria that cause diseases in plants with agricultural interest. The models were developed in laboratory and field conditions using different pathovars as a case study of Xanthomonas spp. and Pseudomonas syringae in tomato, and kiwi crops. Hyperspectral data (reflectance and transmittance) was obtained with UV-VIS portable spectroradiometer, and mini-spectrometers. Data, was applied in the development of predictive models, through applied predictive classification models (based on supervised Machine Learning approaches). Based on these models, solutions will be tested aiming the field mapping of the risk of the diseases studied, using optical sensors mounted on robotic platforms.\nSkills: Precision Agriculture * Plant Pathology * Agriculture technology * Molecular Biology * Microbiology * Hyperspectral spectroscopy * Applied Predictive Modeling * Machine Learning * Chemometrics"
+  },
+  {
+    "objectID": "Website.html",
+    "href": "Website.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I’m a P.h.D. Student in Agrarian Sciences at the Faculty of Sciences of the University of Porto and researcher at INESC TEC (Institute for Systems and Computer Engineering, Technology and Science).\nI am currently developing my dissertation on the theme “Early detection and identification of plant diseases caused by bacteria based on proximal sensing in a precision agriculture perspective”.\nTo achieve the early disease diagnosis I perfom applied predictive classification modeling, using supervised machine learning models. I program in R, but I’m also currently trying to learn Python. If you are curious you can check my publications on my ORCID, on my CIÊNCIAVITAE, and on my LinkedIn.\nIn terms of crops, I work essentially with tomato and kiwi plants 🍅🥝 , but also with tobacco and grapevine 🌱🍇. In terms of pathogens, I work mostly with bacteria (Pseudomonas syringae pv. actinidiae, Pseudomonas syringae pv. tomato, and Xanthomonas euvesicatoria 🦠🧫), and had some contact with grapevine pathogenic fungi (Plasmopara viticola, Uncinula necator).\nThroughout my academic career, I had the opportunity to integrate and lead a group of volunteers in the subject of Social Therapeutic Horticulture, having developed a taste for fieldwork and teamwork. During my Master’s dissertation, I had the opportunity to develop predictive phenological models of the sprouting and flowering of the grapevine (Vitis vinifera L.) and to analyze the pollen quality of different Portuguese grape varieties and some French grape varieties. Furthermore, I worked in a software company that specializes in the development of management and accounting software for agriculture, viticulture, and agribusiness sectors. ‍💻💼\nI enjoy sharing experiences and knowledge with other professionals and I am always interested in establishing new contacts!\n\n\n\nFeel free to contact me via email at mafalda.r.pereira@inesctec.pt or through the LinkedIn."
+  },
+  {
+    "objectID": "Website.html#hi-there-olá",
+    "href": "Website.html#hi-there-olá",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I’m a P.h.D. Student in Agrarian Sciences at the Faculty of Sciences of the University of Porto and researcher at INESC TEC (Institute for Systems and Computer Engineering, Technology and Science).\nI am currently developing my dissertation on the theme “Early detection and identification of plant diseases caused by bacteria based on proximal sensing in a precision agriculture perspective”.\nTo achieve the early disease diagnosis I perfom applied predictive classification modeling, using supervised machine learning models. I program in R, but I’m also currently trying to learn Python. If you are curious you can check my publications on my ORCID, on my CIÊNCIAVITAE, and on my LinkedIn.\nIn terms of crops, I work essentially with tomato and kiwi plants 🍅🥝 , but also with tobacco and grapevine 🌱🍇. In terms of pathogens, I work mostly with bacteria (Pseudomonas syringae pv. actinidiae, Pseudomonas syringae pv. tomato, and Xanthomonas euvesicatoria 🦠🧫), and had some contact with grapevine pathogenic fungi (Plasmopara viticola, Uncinula necator).\nThroughout my academic career, I had the opportunity to integrate and lead a group of volunteers in the subject of Social Therapeutic Horticulture, having developed a taste for fieldwork and teamwork. During my Master’s dissertation, I had the opportunity to develop predictive phenological models of the sprouting and flowering of the grapevine (Vitis vinifera L.) and to analyze the pollen quality of different Portuguese grape varieties and some French grape varieties. Furthermore, I worked in a software company that specializes in the development of management and accounting software for agriculture, viticulture, and agribusiness sectors. ‍💻💼\nI enjoy sharing experiences and knowledge with other professionals and I am always interested in establishing new contacts!"
+  },
+  {
+    "objectID": "Website.html#contact",
+    "href": "Website.html#contact",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Feel free to contact me via email at mafalda.r.pereira@inesctec.pt or through the LinkedIn."
+  }
+]
